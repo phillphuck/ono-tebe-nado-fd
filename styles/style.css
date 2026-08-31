@@ -21,9 +21,9 @@
 }
 
 .header__link {
-  text-decoration: underline;
   font-weight: 400;
   font-size: 18px;
+  text-decoration: underline;
 }
 
 .header__link_active {
@@ -92,7 +92,7 @@
   text-align: left;
 }
 
-.no-letter-spacing{
+.no-letter-spacing {
   letter-spacing: 0;
 }
 
@@ -285,4 +285,4 @@
 
 .footer__menu-link_active {
   text-decoration: none;
-};
+}
